@@ -27,7 +27,7 @@ body {
 .img-container {
     object-fit: scale-down;
     width: 90%;
-    border-radius: 15px;
+    border-radius: 10px;
     margin: 10px;
     overflow: hidden;
 }
