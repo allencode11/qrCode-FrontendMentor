@@ -35,7 +35,7 @@ body {
     object-fit: scale-down;
     width: 90%;
     border-radius: 10px;
-    margin: 10px;
+    margin: 15px;
     overflow: hidden;
 }
 
@@ -56,7 +56,7 @@ body {
 .sub-title {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
-    margin: 0px 25px 20px 20px;
+    margin: 0px 25px 25px 20px;
     text-align: center;
     font-weight: 400;
 }
