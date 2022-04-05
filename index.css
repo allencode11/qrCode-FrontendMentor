@@ -1,8 +1,15 @@
+@font-face {
+    font-family: "outfit";
+    src: url("./Outfit/Outfit-VariableFont_wght.ttf");
+}
+
 * {
     text-decoration: none;
     margin: 0;
     padding: 0;
+    font-family: outfit;
 }
+
 
 body {
     display: flex;
